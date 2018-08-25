@@ -9,7 +9,7 @@
 var connection = require("./connection");
 
 /**
- * Helper function for printing question marks for use
+ * Helper function for pconnectionrinting question marks for use
  * in mysql query string.
  *
  * @param  {Integer} num Number of question marks required in string.

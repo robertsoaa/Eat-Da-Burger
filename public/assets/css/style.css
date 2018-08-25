@@ -37,13 +37,13 @@ footer {
 }
 
  /* -- Bootstrap overwritten styles -- */
-.navbar .navbar-toggle { color: #CA4047; }
-.navbar .navbar-brand { color: #CA4047; }
+.navbar .navbar-toggle { color: #fd9f06; }
+.navbar .navbar-brand { color: #fd9f06; }
 .navbar .navbar-nav>li>a { color: #6B6B6B; }
 
 .navbar .navbar-nav>li>a:hover {
 	background-color: #FFF;
-	color: #CA4047;
+	color:#fd9f06;
 }
 
 .navbar {
@@ -54,7 +54,7 @@ footer {
 .navbar-fixed-top {
     background-color: #fff;
     padding-top: 2px;
-    border-top: 4px solid #CA4047;
+    border-top: 4px solid #fd9f06;
     box-shadow: 0 7px 6px -6px #777;
 }
 
