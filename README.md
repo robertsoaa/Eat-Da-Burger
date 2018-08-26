@@ -10,12 +10,12 @@ This purpose of this application is to log the names of burgers that users like 
 
 Upon executing the application, the user will be navigated to the homepage.
 
-![homepage](app/images/homepage.png)
+![homepage](public/assets/img/burgerhp.png)
 
 Whenever a user submits a burger's name, the application will display the burger on the left side of the page; waiting to be devoured. Each burger in the waiting area also has a Devour it! button. When the user clicks it, the burger will move to the right side of the page. The application also stores every burger in a database, whether devoured or not.
 
 
-![example](app/images/example.gif)
+![example](public/assets/img/burgerapp.gif)
 
 ## Installation
 
