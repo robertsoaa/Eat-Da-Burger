@@ -27,6 +27,4 @@ Whenever a user submits a burger's name, the application will display the burger
 * Inside keys.js file, provide values for your local mysql connection where the schema.sql and seeds.sql files were sourced.
 * Run with either npm run debug or simply npm start.
 
-## (...portions under construction)
-
-This application is currently under developed to meet requirements for the UCF Coding Bootcamp.  
+  
